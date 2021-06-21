@@ -1,0 +1,23 @@
+const Sdata = [{ "name": "shubham", "age": 21  , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU" }, 
+{ "name": "shahane", "age": 24 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU" }, 
+{ "name": "monu", "age": 33 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+{ "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+{ "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+ { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+  { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+   { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+    { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+     { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+      { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+       { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}, 
+       { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+        { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+         { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"},
+          { "name": "shub", "age": 22 , "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gJ3z0avzNGkcjGitKnu-07YhUh1Hcd29OQ&usqp=CAU"}]
+
+ export default Sdata
